@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SWriter">
+</Property><Property Name="Projektmappendatei" Value="C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter.sln">
+</Property><Property Name="Date" Value="Montag, 5. Dezember 2011">
+</Property><Property Name="Time" Value="19:05:02">
+</Property></Properties><Event ErrorLevel="0" Project="WPFColorPickerLib" Source="WPFColorPickerLib\WPFColorPickerLib.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="WPFColorPickerLib" Source="WPFColorPickerLib\WPFColorPickerLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WPFColorPickerLib" Source="WPFColorPickerLib\WPFColorPickerLib.csproj" Description="Überprüfung abgeschlossen: Upgrade der Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

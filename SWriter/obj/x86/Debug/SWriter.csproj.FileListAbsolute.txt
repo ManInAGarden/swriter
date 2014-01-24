@@ -1,0 +1,45 @@
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\bin\Debug\SWriter.exe.config
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\bin\Debug\SWriter.exe
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\bin\Debug\SWriter.pdb
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\MainWindow.baml
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\MainWindow.g.cs
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\App.g.cs
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\SWriter_MarkupCompile.cache
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\SWriter.g.resources
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\SWriter.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\SWriter.exe
+C:\Dokumente und Einstellungen\Tiger\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\SWriter\obj\x86\Debug\SWriter.pdb
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\bin\Debug\SWriter.exe.config
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SWriter.exe
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SWriter.pdb
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\App.g.cs
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SWriter_MarkupCompile.cache
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\MainWindow.g.cs
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SWriter_MarkupCompile.lref
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\bin\Debug\SWriter.exe
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\bin\Debug\SWriter.pdb
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\MainWindow.baml
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SWriter.g.resources
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SWriter.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\ViewerWindow.baml
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\ViewerWindow.g.cs
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\AboutWindow.baml
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\AboutWindow.g.cs
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\HelpWindow.baml
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\HelpWindow.g.cs
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\bin\Debug\help\MainHelpFile.xaml
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SWriter_Content.g.cs
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SettingsWindow.baml
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SettingsWindow.g.cs
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\bin\Debug\SWriter.exe.manifest
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\bin\Debug\SWriter.application
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SWriter.exe.manifest
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\obj\x86\Debug\SWriter.application
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\bin\Debug\WPFColorPickerLib.dll
+C:\Dokumente und Einstellungen\Tiger\eigene dateien\visual studio 2010\Projects\SWriter\SWriter\bin\Debug\WPFColorPickerLib.pdb

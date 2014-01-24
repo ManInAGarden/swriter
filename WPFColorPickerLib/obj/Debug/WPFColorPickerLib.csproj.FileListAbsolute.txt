@@ -1,0 +1,16 @@
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\bin\Debug\WPFColorPickerLib.dll
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\bin\Debug\WPFColorPickerLib.pdb
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\ColorPicker.baml
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\ColorDialog.g.cs
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\ColorPicker.g.cs
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\WPFColorPickerLib_MarkupCompile.cache
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\WPFColorPickerLib_MarkupCompile.lref
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\ColorDialog.baml
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.g.resources
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.dll
+C:\Dokumente und Einstellungen\Tiger\Eigene Dateien\Visual Studio 2010\Projects\SWriter\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.pdb

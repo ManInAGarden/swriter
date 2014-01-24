@@ -1,0 +1,15 @@
+﻿<Window x:Class="SWriter.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SWriter Hilfe" Height="832" Width="701" WindowStartupLocation="CenterOwner" ShowInTaskbar="False" Loaded="Window_Loaded" Icon="/SWriter;component/Application.ico">
+    <Grid>
+        <FlowDocumentPageViewer Name="helpDocReader" >
+            <FlowDocument>
+            <Paragraph>
+                Der Hilfetext wurde nicht gefunden. Er muss in einem Verzeichnis namens "help" im Verzeichnis des
+                ausgeführten SWriter.exe Assemblies liegen.
+            </Paragraph>
+            </FlowDocument>
+        </FlowDocumentPageViewer>
+    </Grid>
+</Window>

@@ -1,0 +1,42 @@
+﻿<Window x:Class="SWriter.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Über SWriter" Height="311" Width="503" ShowInTaskbar="False" WindowStartupLocation="CenterOwner" Loaded="Window_Loaded" Icon="/SWriter;component/Application.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="51*" />
+            <RowDefinition Height="99*" />
+            <RowDefinition Height="64*" />
+            <RowDefinition Height="47*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="167*" />
+            <ColumnDefinition Width="229*" />
+        </Grid.ColumnDefinitions>
+        <Image HorizontalAlignment="Center" Name="image1" Stretch="Uniform" VerticalAlignment="Center" Grid.RowSpan="3" Source="/SWriter;component/SWriterBigLogo.png" Margin="0,21,0,17" />
+        <Label Content="SWriter" Grid.Column="1" HorizontalAlignment="Left" Name="programmTitleLabel" VerticalAlignment="Bottom" FontSize="20" VerticalContentAlignment="Center" Margin="10,0,0,0" />
+       
+            <FlowDocumentReader Grid.Column="1" Grid.RowSpan="2" Grid.Row="1" IsTwoPageViewEnabled="False" IsScrollViewEnabled="False">
+                <FlowDocument FontSize="10pt">
+                <Paragraph FontSize="9pt" Padding="0,0,0,5">
+                    <Italic>(c) Heinrich Speich November 2011</Italic>
+                    </Paragraph>
+                    <Paragraph Padding="0,0,0,5">
+                        Mit SWriter kann man Texte unter Nutzung des gesamten Bildschirms ohne Störung durch anderer Programme wie z.B.
+                        E-Mail sowie ohne allzuviel Funktionalität, die sich auf die Formatierung des Textes bezieht, schreiben. Dadurch 
+                        kann man sich auf den Inhalt des Textes konzentrieren und wird nicht bei der Gestaltung des Inhaltes abgelenkt.
+                    </Paragraph>
+                <Paragraph Padding="0,0,0,5">
+                        Das Programm ist lizenzfrei und darf von Jedermann eingesetzt und verbreitet
+                        werden. Die Disassemblierung und der Verkauf von SWriter
+                        ist allerdings nicht gestattet.
+                    </Paragraph>
+                <Paragraph Padding="0,0,0,5">
+                        Viel Spaß beim Schreiben ...
+                    </Paragraph>
+                </FlowDocument>
+            </FlowDocumentReader>
+       
+        <Button Content="OK" Grid.Row="3" Height="23" HorizontalAlignment="Left" Margin="12,0,0,12" Name="okButton" VerticalAlignment="Bottom" Width="75" Click="okButton_Click" />
+    </Grid>
+</Window>
